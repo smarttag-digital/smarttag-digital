@@ -9,7 +9,7 @@
 Conectando tecnologia, criatividade e negócios para transformar ideias
 em soluções digitais práticas.
 
-[🌷 Sobre mim](#-sobre-mim) ·
+[ Sobre mim](#-sobre-mim) ·
 [💻 Projetos](#-projetos) ·
 [🪻 Smart Tag](#-smart-tag) ·
 [✨ Tecnologias](#-tecnologias) ·
@@ -19,7 +19,7 @@ em soluções digitais práticas.
 
 ---
 
-## 🌷 Sobre mim
+##  Sobre mim
 
 Oi! Sou a **Letícia**.
 
