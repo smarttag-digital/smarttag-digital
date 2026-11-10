@@ -4,8 +4,6 @@
 
 </div>
 
-# ✦ Olá, eu sou a Letícia! 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=23&pause=1200&color=C77DAB&center=true&vCenter=true&width=650&lines=Estudante+de+Gestão+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Construindo+minha+jornada+em+Tech;Aprendendo%2C+testando+e+criando+projetos+%E2%9C%A8" alt="Animação de apresentação" />
 </p>
