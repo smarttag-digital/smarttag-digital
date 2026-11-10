@@ -16,11 +16,11 @@
 
 ### ✿ Sobre mim
 
-Sou estudante de **Gestão da Tecnologia da Informação** e formada em **Gestão Empresarial**.
+Sou estudante de **Gestão da Tecnologia da Informação** , formada em **Gestão Empresarial** pela FATEC Botucatu e pós-graduada em Marketing e Redes Sociais e Neuropsicologia.
 
 Minha trajetória conecta tecnologia, gestão e criatividade. Gosto de compreender como as soluções digitais funcionam, explorar novas ferramentas e transformar ideias em projetos práticos.
 
-Atualmente, estou direcionando minha carreira para **Quality Assurance (QA)**, desenvolvendo conhecimentos em testes de software, documentação, programação e qualidade de sistemas.
+Estou direcionando minha carreira para **Quality Assurance (QA)**, unindo tecnologia, pensamento analítico e visão de negócios para contribuir com a qualidade e a melhoria contínua de softwares e processos.
 
 - 🎓 Gestão da Tecnologia da Informação — FATEC
 - 📚 Formação em Gestão Empresarial
@@ -96,6 +96,12 @@ Por meio dela, exploro a conexão entre tecnologia, estratégia, criatividade e 
 - Evoluir na lógica de programação.
 - Explorar automação de testes futuramente.
 - Construir um portfólio consistente para minha entrada no mercado de tecnologia.
+
+---
+
+## 🚀 Meu objetivo
+
+Construir uma carreira sólida em **Quality Assurance**, desenvolvendo conhecimentos em testes de software, automação e melhoria contínua, sempre aprendendo e transformando conhecimento em projetos práticos.
 
 ---
 
