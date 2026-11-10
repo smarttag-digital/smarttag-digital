@@ -18,7 +18,7 @@ Também sou fundadora da SmartTag, iniciativa que conecta tecnologia, inovação
 - Testes manuais e documentação de testes
 - Fundamentos de testes de software
 - Lógica de programação
-- Python e JavaScript
+- Python, JavaScript, CSS, HTML
 - Banco de dados
 - Inteligência Artificial e automação
 
