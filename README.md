@@ -1,11 +1,11 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=180&section=header&text=Let%C3%ADcia%20Souza&fontSize=42&fontColor=684B78&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20%7C%20Technology%20%7C%20SmartTag&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=180&section=header&text=Let%C3%ADcia%20Souza&fontSize=42&fontColor=684B78&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20%7C%20Software%20Testing%20%7C%20Technology&descAlignY=60&descSize=15" width="100%" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=23&pause=1200&color=C77DAB&center=true&vCenter=true&width=650&lines=Estudante+de+Gestão+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Construindo+minha+jornada+em+Tech;Aprendendo%2C+testando+e+criando+projetos+%E2%9C%A8" alt="Animação de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=23&pause=1200&color=C77DAB&center=true&vCenter=true&width=650&lines=Estudante+de+Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Construindo+minha+jornada+em+Tech;Aprendendo%2C+testando+e+criando+projetos+%E2%9C%A8" alt="Animação de apresentação" />
 </p>
 
 <p align="center">
@@ -16,50 +16,80 @@
 
 ---
 
-### ✿ Um pouco sobre mim
+### ✿ Sobre mim
 
 Sou estudante de **Gestão da Tecnologia da Informação** e formada em **Gestão Empresarial**.
 
-Minha trajetória une tecnologia, gestão e criatividade. Gosto de entender como as soluções digitais funcionam, explorar novas ferramentas e transformar ideias em projetos.
+Minha trajetória conecta tecnologia, gestão e criatividade. Gosto de compreender como as soluções digitais funcionam, explorar novas ferramentas e transformar ideias em projetos práticos.
 
-Atualmente, estou construindo minha jornada profissional na área de tecnologia, desenvolvendo conhecimentos em programação, qualidade de software e desenvolvimento de soluções digitais.
+Atualmente, estou direcionando minha carreira para **Quality Assurance (QA)**, desenvolvendo conhecimentos em testes de software, documentação, programação e qualidade de sistemas.
 
 - 🎓 Gestão da Tecnologia da Informação — FATEC
 - 📚 Formação em Gestão Empresarial
-- 🧪 Em desenvolvimento na área de QA e testes manuais
-- 💻 Explorando programação e desenvolvimento web
-- ✨ Sempre aprendendo algo novo
+- 🧪 Foco em QA e testes manuais
+- 💻 Aprendendo programação e desenvolvimento web
+- ✨ Transformando aprendizado em projetos práticos
 
-### ♡ O que estou explorando
+### ♡ Tecnologias e ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QA%20Manual-E8B4D0?style=for-the-badge&logo=checkmarx&logoColor=59334B" />
-  <img src="https://img.shields.io/badge/HTML5-D9C2F0?style=for-the-badge&logo=html5&logoColor=593B75" />
-  <img src="https://img.shields.io/badge/CSS3-F2C4DC?style=for-the-badge&logo=css3&logoColor=59334B" />
-  <img src="https://img.shields.io/badge/JavaScript-D9C2F0?style=for-the-badge&logo=javascript&logoColor=593B75" />
-  <img src="https://img.shields.io/badge/Python-F2C4DC?style=for-the-badge&logo=python&logoColor=59334B" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-E8B4D0?style=for-the-badge&logo=github&logoColor=59334B" />
+**Em aprendizado**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E8B4D0?style=for-the-badge&logo=html5&logoColor=59334B" />
+  <img src="https://img.shields.io/badge/CSS3-D9C2F0?style=for-the-badge&logo=css3&logoColor=593B75" />
+  <img src="https://img.shields.io/badge/JavaScript-F2C4DC?style=for-the-badge&logo=javascript&logoColor=59334B" />
+  <img src="https://img.shields.io/badge/Python-D9C2F0?style=for-the-badge&logo=python&logoColor=593B75" />
 </p>
 
+**Ferramentas e práticas**
 
-### ✧ Projetos em construção
+<p>
+  <img src="https://img.shields.io/badge/Git-E8B4D0?style=for-the-badge&logo=git&logoColor=59334B" />
+  <img src="https://img.shields.io/badge/GitHub-D9C2F0?style=for-the-badge&logo=github&logoColor=593B75" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-F2C4DC?style=for-the-badge&logo=checkmarx&logoColor=59334B" />
+  <img src="https://img.shields.io/badge/Markdown-D9C2F0?style=for-the-badge&logo=markdown&logoColor=593B75" />
+</p>
 
-| Projeto | Sobre |
-|---|---|
-| 🧪 QA Portfolio | Plano de testes, casos de teste, execução e documentação de bugs |
-| 🏡 SmartFlow | CRM imobiliário para organização e gestão de leads |
-| 🌷 MoodBloom | Projeto digital em desenvolvimento |
-| 🧮 Calculadora Web | Projeto de prática em desenvolvimento web |
+### ✧ Projetos em destaque
 
-## 💜 SmartTag
+<p align="center">
+  <a href="https://github.com/smarttag-digital/qa-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smarttag-digital&repo=qa-portfolio&theme=default&bg_color=FFF7FB&title_color=C77DAB&text_color=684B78&icon_color=B99AE8&border_color=EADCF8" />
+  </a>
+</p>
 
-A SmartTag representa minha iniciativa de explorar o potencial da tecnologia para criar soluções digitais, automações e experiências mais inteligentes.
+**🧪 QA Portfolio**
 
-Acredito na conexão entre tecnologia, estratégia e inovação para resolver problemas reais.
+Portfólio de estudos em Quality Assurance, com planejamento de testes, casos de teste, execução, evidências e documentação de bugs.
 
-### 🌱 Meu foco agora
+**🏡 SmartFlow**
 
-Construir uma carreira sólida em **Quality Assurance**, desenvolvendo conhecimentos em testes de software, automação e melhoria contínua, sempre aprendendo e transformando conhecimento em projetos práticos.
+CRM imobiliário desenvolvido para organizar leads, acompanhar negociações e otimizar processos comerciais.
+
+**🌷 MoodBloom**
+
+Projeto digital em desenvolvimento, explorando criatividade e construção de soluções tecnológicas.
+
+**🧮 Calculadora Web**
+
+Projeto prático para desenvolver lógica de programação e conhecimentos em desenvolvimento web.
+
+> Os projetos estão em diferentes etapas de desenvolvimento. Meu objetivo é documentar cada evolução e compartilhar meu aprendizado.
+
+### 💜 SmartTag
+
+A **SmartTag** é minha iniciativa empreendedora na área de marketing digital.
+
+Por meio dela, exploro a conexão entre tecnologia, estratégia, criatividade e soluções digitais, desenvolvendo uma visão prática sobre negócios e inovação.
+
+### 🌱 Meu foco atual
+
+- Desenvolver fundamentos de Quality Assurance.
+- Aprimorar testes manuais e elaboração de casos de teste.
+- Aprender a identificar, reproduzir e documentar bugs.
+- Evoluir na lógica de programação.
+- Explorar automação de testes futuramente.
+- Construir um portfólio consistente para minha entrada no mercado de tecnologia.
 
 ### 💌 Vamos nos conectar?
 
@@ -77,13 +107,9 @@ Construir uma carreira sólida em **Quality Assurance**, desenvolvendo conhecime
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F2C4DC,B99AE8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C4DC,100:B99AE8&height=110&section=footer" width="100%" />
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=100&section=footer" width="100%" />
-
-**Obrigada pela visita! ♡**
-
-</div>
+<p align="center">
+  <sub>Obrigada pela visita! Feito com dedicação e muitos aprendizados. ♡</sub>
+</p>
