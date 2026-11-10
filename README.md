@@ -1,131 +1,85 @@
-from pathlib import Path
-import shutil, zipfile, textwrap
+ <div align="center">
 
-base = Path("/mnt/data/portfolio_leticia_girly_tech")
-assets = base / "assets"
-assets.mkdir(parents=True, exist_ok=True)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F4C6DA,50:CDB8EE,100:E9DDF7&text=Let%C3%ADcia%20Souza&fontSize=48&fontColor=514263&fontAlignY=38&desc=Quality%20Assurance%20%7C%20Technology%20%7C%20SmartTag&descSize=16&descAlignY=60" />
 
-banner_source = Path("/mnt/data/a_wide_pastel_minimalist_dreamy_tech_themed_ban.png")
-banner_dest = assets / "banner-girly-tech.png"
-if banner_source.exists():
-    shutil.copy2(banner_source, banner_dest)
+**Gestão de Tecnologia da Informação | Gestão Empresarial**
 
-readme = r"""<div align="center">
+Tecnologia, qualidade e criatividade para transformar ideias em soluções.
 
-<img src="assets/banner-girly-tech.png" alt="Letícia | Tech, IA & SmartTag — tecnologia, automação e criatividade" width="100%">
-
-### ✨ tecnologia com criatividade, propósito e um toque de lilás ✨
-
-Estudante de **Gestão da Tecnologia da Informação** e formada em **Gestão Empresarial**.
-Gosto de conectar tecnologia, processos e criatividade para transformar ideias em soluções práticas.
-
-[🌷 Sobre mim](#-sobre-mim) · [💻 Projetos](#-projetos) · [🪻 Tecnologias](#-tecnologias) · [💌 Contato](#-contato)
+[GitHub](https://github.com/smarttag-digital) · [SmartTag](https://www.instagram.com/smarttag.digital/)
 
 </div>
 
 ---
 
-## 🌷 Sobre mim
+## Sobre mim
 
-Oi! Sou a Letícia — curiosa por natureza, apaixonada por aprender e por encontrar maneiras mais inteligentes de fazer as coisas.
+Sou formada em **Gestão Empresarial pela Fatec Botucatu** e estudante de **Gestão da Tecnologia da Informação** na Fatec Tatuí.
 
-Minha trajetória une **gestão, negócios, marketing e tecnologia**. Estou desenvolvendo minhas habilidades em programação e explorando como automação e inteligência artificial podem ajudar pessoas e empresas no dia a dia.
+Minha trajetória conecta gestão, negócios, marketing e tecnologia. Atualmente, estou direcionando meus estudos e projetos para **Quality Assurance (QA)**, com interesse em qualidade de software, testes e melhoria contínua.
 
-- 🎓 Formada em Gestão Empresarial pela Fatec Botucatu.
-- 💻 Estudante de Gestão da Tecnologia da Informação.
-- ✨ Interesses: automação de processos, IA aplicada, desenvolvimento web e soluções digitais.
-- 🩷 Acredito que tecnologia pode ser útil, acessível e criativa — sem perder a personalidade.
+Gosto de aprender na prática, investigar problemas e desenvolver soluções que façam sentido no mundo real.
 
-## 💻 Projetos
+## Foco de estudos
 
-### 🧮 Calculadora com HTML, CSS e JavaScript
-Meu projeto de prática em desenvolvimento front-end e lógica de programação.
+- Quality Assurance (QA)
+- Testes de software
+- Testes manuais e documentação
+- Lógica de programação
+- Python e JavaScript
+- Banco de dados
+- Inteligência Artificial e automação
 
-- **Tecnologias:** HTML5, CSS3 e JavaScript.
-- **Prática:** manipulação do DOM, operações matemáticas e interface responsiva.
-- **Repositório:** [ver projeto no GitHub](https://github.com/smarttag-digital/calculadora-html-css-js)
+## Projetos
 
-### 🪻 SmartTag
-A SmartTag é meu espaço para explorar ideias e desenvolver soluções digitais, aproximando tecnologia, automação, inteligência artificial e necessidades reais de negócio.
+### MoodBloom — Diário de Humor
 
-> Os projetos e funcionalidades serão documentados aqui conforme forem sendo implementados e validados.
+Aplicação web para registrar sentimentos, consultar históricos e acompanhar resumos mensais.
 
-- **GitHub:** [smarttag-digital](https://github.com/smarttag-digital)
-- **Instagram:** [@smarttag.digital](https://www.instagram.com/smarttag.digital/)
+**Tecnologias:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
-## 🪻 Tecnologias e temas em desenvolvimento
+[Visualizar projeto](https://github.com/smarttag-digital/MoodBloom)
 
-<div align="center">
+### Calculadora Web
 
-![HTML5](https://img.shields.io/badge/HTML5-F4B8D0?style=flat-square&logo=html5&logoColor=423653)
-![CSS3](https://img.shields.io/badge/CSS3-C9B6F0?style=flat-square&logo=css3&logoColor=423653)
-![JavaScript](https://img.shields.io/badge/JavaScript-F8DCEB?style=flat-square&logo=javascript&logoColor=423653)
-![Python](https://img.shields.io/badge/Python-E7DDFB?style=flat-square&logo=python&logoColor=423653)
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-F4B8D0?style=flat-square&logo=openai&logoColor=423653)
-![Automação](https://img.shields.io/badge/Automação-C9B6F0?style=flat-square&logo=n8n&logoColor=423653)
+Projeto desenvolvido para praticar lógica de programação e desenvolvimento front-end.
 
-</div>
+**Tecnologias:** HTML · CSS · JavaScript
 
-*Esta seção representa ferramentas e áreas que estudo ou exploro. Vou atualizá-la conforme ganhar experiência prática.*
+[Visualizar projeto](https://github.com/smarttag-digital/calculadora-html-css-js)
 
-## 🌸 O que quero construir
+### QA Portfolio
 
-Quero crescer na área de tecnologia participando de projetos que conectem **soluções digitais, melhoria de processos e experiência das pessoas** — enquanto desenvolvo a SmartTag com responsabilidade e aprendizado contínuo.
+Repositório dedicado aos meus estudos, práticas e projetos de garantia da qualidade de software.
 
-## 💌 Contato
+[Visualizar projeto](https://github.com/smarttag-digital/qa-portfolio)
 
-- **GitHub:** [smarttag-digital](https://github.com/smarttag-digital)
-- **Instagram da SmartTag:** [@smarttag.digital](https://www.instagram.com/smarttag.digital/)
+## SmartTag
+
+A **SmartTag** é minha iniciativa empreendedora, que conecta gestão, marketing e tecnologia para explorar soluções digitais, automação e inteligência artificial aplicadas a negócios.
+
+[Instagram — @smarttag.digital](https://www.instagram.com/smarttag.digital/)
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
-`feito com curiosidade, café opcional e muitos ✨`
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,sqlite,git,github,vscode&perline=5" />
 
 </div>
-"""
 
-guide = """# Aplicação do perfil GitHub — Letícia | Tech, IA & SmartTag
+*Tecnologias em estudo e prática, com evolução contínua por meio de projetos.*
 
-## Identidade visual
+## Objetivo profissional
 
-- **Conceito:** Aesthetic girl / Girly Tech
-- **Paleta:** lilás `#C9B6F0`, rosa pastel `#F4B8D0`, branco rosado `#FFF7FC`, uva `#423653`
-- **Clima:** clean, delicado, criativo e tecnológico
-- **Título de perfil:** `Letícia | Tech, IA & SmartTag`
+Desenvolver minha carreira na área de tecnologia, com foco em **QA e qualidade de software**, unindo pensamento analítico, visão de processos e conhecimento técnico.
 
-## Arquivos
+---
 
-- `README.md`: conteúdo sugerido para o README do perfil.
-- `assets/banner-girly-tech.png`: banner visual para o README.
+<div align="center">
 
-## Como aplicar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:E9DDF7,50:CDB8EE,100:F4C6DA&section=footer" />
 
-1. Abra https://github.com e confirme seu nome de usuário exato.
-2. Crie um repositório **público** com o mesmo nome do usuário. Para o usuário `smarttag-digital`, o repositório especial deve se chamar `smarttag-digital`.
-3. Marque a opção para adicionar um README.
-4. Envie/substitua o `README.md` deste pacote e envie a imagem para `assets/banner-girly-tech.png`.
-5. Faça commit das alterações. O GitHub exibe esse README no perfil quando o repositório público tem exatamente o mesmo nome do usuário.
-6. No perfil, ajuste o nome de exibição para `Letícia | Tech, IA & SmartTag`.
-7. Sugestão de bio curta: `GTI student | Gestão, tecnologia, automação e IA ✨`
-8. Fixe os melhores repositórios no perfil quando tiver projetos públicos prontos e documentados.
+<sub>Letícia Souza · Tecnologia, qualidade e aprendizado contínuo.</sub>
 
-## Importante
-
-O conector disponível nesta sessão não retornou os repositórios da conta e não oferece uma ação de criação de repositório ou alteração dos campos do perfil. Por isso, este pacote foi preparado para aplicação manual; nenhuma mudança foi publicada diretamente na sua conta.
-
-Revise links e descrições antes de publicar. Só mantenha tecnologias e funcionalidades que você realmente esteja estudando ou tenha implementado. O README já sinaliza que algumas tecnologias estão em desenvolvimento e que a SmartTag deve ser descrita de acordo com o que estiver efetivamente construído.
-"""
-
-(base / "README.md").write_text(readme, encoding="utf-8")
-(base / "GUIA-DE-APLICACAO.md").write_text(guide, encoding="utf-8")
-
-zip_path = Path("/mnt/data/portfolio_leticia_girly_tech.zip")
-with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
-    for p in base.rglob("*"):
-        if p.is_file():
-            zf.write(p, p.relative_to(base.parent))
-
-print("Pacote criado:", zip_path)
-print("README:", base / "README.md")
-print("Guia:", base / "GUIA-DE-APLICACAO.md")
-print("Banner incluído:", banner_dest.exists())
+</div>
