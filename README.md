@@ -68,13 +68,13 @@ Portfólio de estudos em Quality Assurance, com planejamento de testes, casos de
 
 CRM imobiliário desenvolvido para organizar leads, acompanhar negociações e otimizar processos comerciais.
 
-**🌷 MoodBloom — Projeto em desenvolvimento**
+**🌷 [MoodBloom — Projeto em desenvolvimento](https://github.com/smarttag-digital/MoodBloom)**
 
-Projeto digital em desenvolvimento, explorando criatividade e construção de soluções tecnológicas. *(Adicionar link do repositório quando publicado.)*
+Projeto digital em desenvolvimento, explorando criatividade e construção de soluções tecnológicas.
 
-**🧮 Calculadora Web — Projeto em desenvolvimento**
+**🧮 [Calculadora Web](https://github.com/smarttag-digital/calculadora-html-css-js)**
 
-Projeto prático para desenvolver lógica de programação e conhecimentos em desenvolvimento web. *(Adicionar link do repositório quando publicado.)*
+Projeto prático para desenvolver lógica de programação e conhecimentos em desenvolvimento web.
 
 ---
 
@@ -123,5 +123,9 @@ Por meio dela, exploro a conexão entre tecnologia, estratégia, criatividade e 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DDF0,100:DCCBFA&height=3&section=footer" width="70%" />
 
 <sub>Obrigada pela visita! Feito com dedicação, criatividade e muitos aprendizados. ✨</sub>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C4DC,100:B99AE8&height=110&section=footer" width="100%" />
+</p>
 
 </div>
