@@ -1,85 +1,63 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:F4C6DA,50:CDB8EE,100:E9DDF7&text=Let%C3%ADcia%20Souza&fontSize=48&fontColor=514263&fontAlignY=38&desc=Quality%20Assurance%20%7C%20Technology%20%7C%20SmartTag&descSize=16&descAlignY=60" />
-
-**Gestão de Tecnologia da Informação | Gestão Empresarial**
-
-Tecnologia, qualidade e criatividade para transformar ideias em soluções.
-
-[GitHub](https://github.com/smarttag-digital) · [SmartTag](https://www.instagram.com/smarttag.digital/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=180&section=header&text=Let%C3%ADcia%20Souza&fontSize=42&fontColor=684B78&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20%7C%20Technology%20%7C%20SmartTag&descAlignY=60&descSize=16" width="100%" />
 
 </div>
 
----
+## ✨ Sobre mim
 
-## Sobre mim
+Olá! Sou a Letícia, estudante de **Gestão da Tecnologia da Informação** na FATEC Tatuí, formada em **Gestão Empresarial** pela FATEC Botucatu e pós-graduanda em Marketing e Redes Sociais e Neuropsicologia.
 
-Sou formada em **Gestão Empresarial pela Fatec Botucatu** e estudante de **Gestão da Tecnologia da Informação** na Fatec Tatuí.
+Estou direcionando minha carreira para **Quality Assurance (QA)**, unindo tecnologia, pensamento analítico e visão de negócios para contribuir com a qualidade e a melhoria contínua de softwares e processos.
 
-Minha trajetória conecta gestão, negócios, marketing e tecnologia. Atualmente, estou direcionando meus estudos e projetos para **Quality Assurance (QA)**, com interesse em qualidade de software, testes e melhoria contínua.
+Também sou fundadora da SmartTag, iniciativa que conecta tecnologia, inovação e soluções digitais.
 
-Gosto de aprender na prática, investigar problemas e desenvolver soluções que façam sentido no mundo real.
-
-## Foco de estudos
+## 🎯 Foco de estudos
 
 - Quality Assurance (QA)
-- Testes de software
-- Testes manuais e documentação
+- Testes manuais e documentação de testes
+- Fundamentos de testes de software
 - Lógica de programação
 - Python e JavaScript
 - Banco de dados
 - Inteligência Artificial e automação
 
-## Projetos
-
-### MoodBloom — Diário de Humor
-
-Aplicação web para registrar sentimentos, consultar históricos e acompanhar resumos mensais.
-
-**Tecnologias:** Python · Flask · SQLite · HTML · CSS · JavaScript
-
-[Visualizar projeto](https://github.com/smarttag-digital/MoodBloom)
-
-### Calculadora Web
-
-Projeto desenvolvido para praticar lógica de programação e desenvolvimento front-end.
-
-**Tecnologias:** HTML · CSS · JavaScript
-
-[Visualizar projeto](https://github.com/smarttag-digital/calculadora-html-css-js)
-
-### QA Portfolio
-
-Repositório dedicado aos meus estudos, práticas e projetos de garantia da qualidade de software.
-
-[Visualizar projeto](https://github.com/smarttag-digital/qa-portfolio)
-
-## SmartTag
-
-A **SmartTag** é minha iniciativa empreendedora, que conecta gestão, marketing e tecnologia para explorar soluções digitais, automação e inteligência artificial aplicadas a negócios.
-
-[Instagram — @smarttag.digital](https://www.instagram.com/smarttag.digital/)
-
-## Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,sqlite,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,sqlite,git,github,vscode&theme=light" />
 
 </div>
 
-*Tecnologias em estudo e prática, com evolução contínua por meio de projetos.*
+<div align="center">
 
-## Objetivo profissional
+<sub>Atualmente estudando, praticando e desenvolvendo projetos para ampliar minhas habilidades em tecnologia e qualidade de software.</sub>
 
-Desenvolver minha carreira na área de tecnologia, com foco em **QA e qualidade de software**, unindo pensamento analítico, visão de processos e conhecimento técnico.
+</div>
 
----
+## 🌷 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [MoodBloom](https://github.com/smarttag-digital/MoodBloom) | Diário de humor com registro e histórico de emoções. | Python, Flask, SQLite, HTML, CSS e JS |
+| [Calculadora Web](https://github.com/smarttag-digital/calculadora-html-css-js) | Projeto de calculadora desenvolvido para praticar lógica e desenvolvimento web. | HTML, CSS e JavaScript |
+| [QA Portfolio](https://github.com/smarttag-digital/qa-portfolio) | Portfólio de estudos e projetos práticos de qualidade de software. | QA e testes de software |
+
+## 💜 SmartTag
+
+A SmartTag representa minha iniciativa de explorar o potencial da tecnologia para criar soluções digitais, automações e experiências mais inteligentes.
+
+Acredito na conexão entre tecnologia, estratégia e inovação para resolver problemas reais.
+
+## 🚀 Meu objetivo
+
+Construir uma carreira sólida em **Quality Assurance**, desenvolvendo conhecimentos em testes de software, automação e melhoria contínua, sempre aprendendo e transformando conhecimento em projetos práticos.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:E9DDF7,50:CDB8EE,100:F4C6DA&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=100&section=footer" width="100%" />
 
-<sub>Letícia Souza · Tecnologia, qualidade e aprendizado contínuo.</sub>
+**Obrigada pela visita! ♡**
 
 </div>
