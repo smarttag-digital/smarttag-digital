@@ -1,7 +1,13 @@
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=180&section=header&text=Let%C3%ADcia%20Souza&fontSize=42&fontColor=684B78&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20%7C%20Technology%20%7C%20SmartTag&descAlignY=60&descSize=16" width="100%" />
+
+</div>
+
 # ✦ Olá, eu sou a Letícia! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=23&pause=1200&color=C77DAB&center=true&vCenter=true&width=650&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Construindo+minha+jornada+em+Tech;Aprendendo%2C+testando+e+criando+projetos+%E2%9C%A8" alt="Animação de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=23&pause=1200&color=C77DAB&center=true&vCenter=true&width=650&lines=Estudante+de+Gestão+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Construindo+minha+jornada+em+Tech;Aprendendo%2C+testando+e+criando+projetos+%E2%9C%A8" alt="Animação de apresentação" />
 </p>
 
 <p align="center">
@@ -37,6 +43,7 @@ Atualmente, estou construindo minha jornada profissional na área de tecnologia,
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-E8B4D0?style=for-the-badge&logo=github&logoColor=59334B" />
 </p>
 
+
 ### ✧ Projetos em construção
 
 | Projeto | Sobre |
@@ -46,13 +53,15 @@ Atualmente, estou construindo minha jornada profissional na área de tecnologia,
 | 🌷 MoodBloom | Projeto digital em desenvolvimento |
 | 🧮 Calculadora Web | Projeto de prática em desenvolvimento web |
 
+## 💜 SmartTag
+
+A SmartTag representa minha iniciativa de explorar o potencial da tecnologia para criar soluções digitais, automações e experiências mais inteligentes.
+
+Acredito na conexão entre tecnologia, estratégia e inovação para resolver problemas reais.
+
 ### 🌱 Meu foco agora
 
-- Aprimorar meus conhecimentos em testes de software.
-- Aprender a documentar cenários, casos de teste e bugs.
-- Desenvolver minha lógica de programação.
-- Criar projetos práticos para meu portfólio.
-- Evoluir continuamente como profissional de tecnologia.
+Construir uma carreira sólida em **Quality Assurance**, desenvolvendo conhecimentos em testes de software, automação e melhoria contínua, sempre aprendendo e transformando conhecimento em projetos práticos.
 
 ### 💌 Vamos nos conectar?
 
@@ -72,3 +81,11 @@ Atualmente, estou construindo minha jornada profissional na área de tecnologia,
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2C4DC,B99AE8&height=100&section=footer" width="100%" />
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DDF0,100:DCCBFA&height=100&section=footer" width="100%" />
+
+**Obrigada pela visita! ♡**
+
+</div>
