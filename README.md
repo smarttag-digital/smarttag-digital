@@ -64,10 +64,6 @@ Atualmente, estou direcionando minha carreira para **Quality Assurance (QA)**, d
 
 Portfólio de estudos em Quality Assurance, com planejamento de testes, casos de teste, execução, evidências e documentação de bugs.
 
-**🏡 [SmartFlow — Acessar aplicação](https://smartflow.lovable.app/)**
-
-CRM imobiliário desenvolvido para organizar leads, acompanhar negociações e otimizar processos comerciais.
-
 **🌷 [MoodBloom — Projeto em desenvolvimento](https://github.com/smarttag-digital/MoodBloom)**
 
 Projeto digital em desenvolvimento, explorando criatividade e construção de soluções tecnológicas.
