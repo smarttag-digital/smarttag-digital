@@ -58,19 +58,91 @@ Estou direcionando minha carreira para **Quality Assurance (QA)**, unindo tecnol
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=smarttag-digital&repo=qa-portfolio&theme=default&bg_color=FFF7FB&title_color=C77DAB&text_color=684B78&icon_color=B99AE8&border_color=EADCF8" />
 </a>
 
+<div align="center">
+
+♡ Tecnologias em aprendizado
+
+<img src="https://img.shields.io/badge/HTML5-E8B4D0?style=for-the-badge&logo=html5&logoColor=59334B" />
+<img src="https://img.shields.io/badge/CSS3-D9C2F0?style=for-the-badge&logo=css3&logoColor=593B75" />
+<img src="https://img.shields.io/badge/JavaScript-F2C4DC?style=for-the-badge&logo=javascript&logoColor=59334B" />
+<img src="https://img.shields.io/badge/Python-D9C2F0?style=for-the-badge&logo=python&logoColor=593B75" />
+
+✧ Ferramentas e práticas
+
+<img src="https://img.shields.io/badge/Git-E8B4D0?style=for-the-badge&logo=git&logoColor=59334B" />
+<img src="https://img.shields.io/badge/GitHub-D9C2F0?style=for-the-badge&logo=github&logoColor=593B75" />
+<img src="https://img.shields.io/badge/Manual%20Testing-F2C4DC?style=for-the-badge&logo=checkmarx&logoColor=59334B" />
+<img src="https://img.shields.io/badge/Markdown-D9C2F0?style=for-the-badge&logo=markdown&logoColor=593B75" />
+
 </div>
 
-**🧪 [QA Portfolio — Ver repositório](https://github.com/smarttag-digital/qa-portfolio)**
+✧ Projetos em destaque
 
-Portfólio de estudos em Quality Assurance, com planejamento de testes, casos de teste, execução, evidências e documentação de bugs.
+Projetos que representam minha jornada em tecnologia, desenvolvimento de aplicações e qualidade de software.
 
-**🌷 [MoodBloom — Projeto em desenvolvimento](https://github.com/smarttag-digital/MoodBloom)**
+🧪 QA & Software Testing
 
-Projeto digital em desenvolvimento, explorando criatividade e construção de soluções tecnológicas.
+QA Portfolio — Ver repositório
 
-**🧮 [Calculadora Web](https://github.com/smarttag-digital/calculadora-html-css-js)**
+Portfólio prático de QA Manual, com planejamento de testes, casos de teste, execução, evidências e documentação de bugs.
+
+<div align="center">
+<a href="https://github.com/smarttag-digital/qa-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smarttag-digital&repo=qa-portfolio&theme=default&bg_color=FFF7FB&title_color=C77DAB&text_color=684B78&icon_color=B99AE8&border_color=EADCF8" />
+</a>
+</div>
+
+💻 Desenvolvimento & Aplicações
+
+🌷 MoodBloom
+
+Diário de humor digital com uma interface simples e intuitiva.
+
+HTML CSS JavaScript
+
+🧮 Calculadora Web
 
 Projeto prático para desenvolver lógica de programação e conhecimentos em desenvolvimento web.
+
+HTML CSS JavaScript
+
+🏡 Strata Imóveis
+
+Projeto digital voltado ao segmento imobiliário.
+
+TypeScript
+
+✨ Ecossistema Smart Tag
+
+📂 Smart Tag Content Hub
+
+Projeto de plataforma para organização de conteúdo digital.
+
+TypeScript
+
+🏢 SmartFlow
+
+CRM imobiliário para gestão de leads e processos comerciais.
+
+TypeScript
+
+📅 Agenda SmartFlow
+
+Aplicação de agenda integrada ao ecossistema SmartFlow.
+
+TypeScript
+
+💜 SmartTag
+
+A SmartTag é minha iniciativa empreendedora na área de marketing digital.
+
+Por meio dela, exploro a conexão entre tecnologia, estratégia, criatividade e soluções digitais, desenvolvendo uma visão prática sobre negócios e inovação.
+
+<p align="center">
+<a href="https://www.instagram.com/smarttag.digital/">
+<img src="https://img.shields.io/badge/Instagram-SMART%20TAG-C77DAB?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
 ---
 
