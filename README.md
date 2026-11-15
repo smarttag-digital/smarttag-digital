@@ -76,61 +76,37 @@ Estou direcionando minha carreira para **Quality Assurance (QA)**, unindo tecnol
 
 </div>
 
-✧ Projetos em destaque
+### ✧ Projetos em destaque
 
 Projetos que representam minha jornada em tecnologia, desenvolvimento de aplicações e qualidade de software.
 
-🧪 QA & Software Testing
+#### 🧪 QA & Software Testing
 
-QA Portfolio — Ver repositório
+| Projeto | Descrição | Tecnologias |
+|:---|:---|:---|
+| [QA Portfolio ↗](https://github.com/smarttag-digital/qa-portfolio) | Testes manuais, casos de teste e documentação de bugs. | QA · Markdown |
 
-Portfólio prático de QA Manual, com planejamento de testes, casos de teste, execução, evidências e documentação de bugs.
+#### 💻 Desenvolvimento & Aplicações
 
-<div align="center">
-<a href="https://github.com/smarttag-digital/qa-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=smarttag-digital&repo=qa-portfolio&theme=default&bg_color=FFF7FB&title_color=C77DAB&text_color=684B78&icon_color=B99AE8&border_color=EADCF8" />
-</a>
-</div>
+| Projeto | Descrição | Tecnologias |
+|:---|:---|:---|
+| [MoodBloom ↗](https://github.com/smarttag-digital/MoodBloom) | Diário de humor digital. | HTML · CSS · JS |
+| [Calculadora Web ↗](https://github.com/smarttag-digital/calculadora-html-css-js) | Calculadora para praticar lógica e desenvolvimento web. | HTML · CSS · JS |
+| [Strata Imóveis ↗](https://github.com/smarttag-digital/strataimoveis) | Projeto digital para o segmento imobiliário. | TypeScript |
 
-💻 Desenvolvimento & Aplicações
+#### ✨ Ecossistema Smart Tag
 
-🌷 MoodBloom
+| Projeto | Descrição | Tecnologias |
+|:---|:---|:---|
+| [Smart Tag Content Hub ↗](https://github.com/smarttag-digital/smart-tag-content-hub) | Plataforma de organização de conteúdo digital. | TypeScript |
+| [SmartFlow ↗](https://github.com/smarttag-digital/smartflow) | CRM para gestão imobiliária e leads. | TypeScript |
+| [Agenda SmartFlow ↗](https://github.com/smarttag-digital/agenda-smartflow) | Aplicação de agenda do ecossistema SmartFlow. | TypeScript |
 
-Diário de humor digital com uma interface simples e intuitiva.
+---
 
-HTML CSS JavaScript
-
-🧮 Calculadora Web
-
-Projeto prático para desenvolver lógica de programação e conhecimentos em desenvolvimento web.
-
-HTML CSS JavaScript
-
-🏡 Strata Imóveis
-
-Projeto digital voltado ao segmento imobiliário.
-
-TypeScript
-
-✨ Ecossistema Smart Tag
-
-📂 Smart Tag Content Hub
-
-Projeto de plataforma para organização de conteúdo digital.
-
-TypeScript
-
-🏢 SmartFlow
-
-CRM imobiliário para gestão de leads e processos comerciais.
-
-TypeScript
-
-📅 Agenda SmartFlow
-
-Aplicação de agenda integrada ao ecossistema SmartFlow.
-
-TypeScript
+<p align="center">
+<sub>♡ Projetos em constante evolução, unindo tecnologia, criatividade e aprendizado.</sub>
+</p>
 
 💜 SmartTag
 
