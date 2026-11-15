@@ -50,30 +50,6 @@ Estou direcionando minha carreira para **Quality Assurance (QA)**, unindo tecnol
 
 ---
 
-### ✧ Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/smarttag-digital/qa-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smarttag-digital&repo=qa-portfolio&theme=default&bg_color=FFF7FB&title_color=C77DAB&text_color=684B78&icon_color=B99AE8&border_color=EADCF8" />
-</a>
-
-<div align="center">
-
-♡ Tecnologias em aprendizado
-
-<img src="https://img.shields.io/badge/HTML5-E8B4D0?style=for-the-badge&logo=html5&logoColor=59334B" />
-<img src="https://img.shields.io/badge/CSS3-D9C2F0?style=for-the-badge&logo=css3&logoColor=593B75" />
-<img src="https://img.shields.io/badge/JavaScript-F2C4DC?style=for-the-badge&logo=javascript&logoColor=59334B" />
-<img src="https://img.shields.io/badge/Python-D9C2F0?style=for-the-badge&logo=python&logoColor=593B75" />
-
-✧ Ferramentas e práticas
-
-<img src="https://img.shields.io/badge/Git-E8B4D0?style=for-the-badge&logo=git&logoColor=59334B" />
-<img src="https://img.shields.io/badge/GitHub-D9C2F0?style=for-the-badge&logo=github&logoColor=593B75" />
-<img src="https://img.shields.io/badge/Manual%20Testing-F2C4DC?style=for-the-badge&logo=checkmarx&logoColor=59334B" />
-<img src="https://img.shields.io/badge/Markdown-D9C2F0?style=for-the-badge&logo=markdown&logoColor=593B75" />
-
 </div>
 
 ### ✧ Projetos em destaque
