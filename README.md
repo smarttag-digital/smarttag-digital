@@ -108,18 +108,6 @@ Projetos que representam minha jornada em tecnologia, desenvolvimento de aplica�
 <sub>♡ Projetos em constante evolução, unindo tecnologia, criatividade e aprendizado.</sub>
 </p>
 
-💜 SmartTag
-
-A SmartTag é minha iniciativa empreendedora na área de marketing digital.
-
-Por meio dela, exploro a conexão entre tecnologia, estratégia, criatividade e soluções digitais, desenvolvendo uma visão prática sobre negócios e inovação.
-
-<p align="center">
-<a href="https://www.instagram.com/smarttag.digital/">
-<img src="https://img.shields.io/badge/Instagram-SMART%20TAG-C77DAB?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
-
 ---
 
 ### 💜 SmartTag
