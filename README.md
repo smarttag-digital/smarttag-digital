@@ -66,6 +66,7 @@ Projetos que representam minha jornada em tecnologia, desenvolvimento de aplica�
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---|
+| [Meu precificador ↗].(https://github.com/smarttag-digital/meu-precificador). | Precificação de receitas | HTML · CSS · JS |
 | [MoodBloom ↗](https://github.com/smarttag-digital/MoodBloom) | Diário de humor digital. | HTML · CSS · JS |
 | [Calculadora Web ↗](https://github.com/smarttag-digital/calculadora-html-css-js) | Calculadora para praticar lógica e desenvolvimento web. | HTML · CSS · JS |
 | [Strata Imóveis ↗](https://github.com/smarttag-digital/strataimoveis) | Projeto digital para o segmento imobiliário. | TypeScript |
